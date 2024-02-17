@@ -6,7 +6,7 @@ local whitelist = {
 local function checkWhitelist(ply)
     local steamid = ply:SteamID()
     if not whitelist[steamid] then
-        ply:Kick("Du bist nicht gewhitelistet.")
+        ply:Kick("Your are not whitelisted.")
     end
 end
 
