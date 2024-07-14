@@ -1,8 +1,6 @@
 Some Selfmade Plugins for Helix
 
 - Whitelist 
-- Daily Rewards ( Daily Money ) / Coming Soon
-- Hunger System ( Survival_System Remix )
 
 
 
